@@ -1,0 +1,16 @@
+/home/chris/Codes/NET_DIO/NETDIO/bin/Debug/net5.0/NETDIO
+/home/chris/Codes/NET_DIO/NETDIO/bin/Debug/net5.0/NETDIO.deps.json
+/home/chris/Codes/NET_DIO/NETDIO/bin/Debug/net5.0/NETDIO.runtimeconfig.json
+/home/chris/Codes/NET_DIO/NETDIO/bin/Debug/net5.0/NETDIO.runtimeconfig.dev.json
+/home/chris/Codes/NET_DIO/NETDIO/bin/Debug/net5.0/NETDIO.dll
+/home/chris/Codes/NET_DIO/NETDIO/bin/Debug/net5.0/ref/NETDIO.dll
+/home/chris/Codes/NET_DIO/NETDIO/bin/Debug/net5.0/NETDIO.pdb
+/home/chris/Codes/NET_DIO/NETDIO/obj/Debug/net5.0/NETDIO.csproj.AssemblyReference.cache
+/home/chris/Codes/NET_DIO/NETDIO/obj/Debug/net5.0/NETDIO.GeneratedMSBuildEditorConfig.editorconfig
+/home/chris/Codes/NET_DIO/NETDIO/obj/Debug/net5.0/NETDIO.AssemblyInfoInputs.cache
+/home/chris/Codes/NET_DIO/NETDIO/obj/Debug/net5.0/NETDIO.AssemblyInfo.cs
+/home/chris/Codes/NET_DIO/NETDIO/obj/Debug/net5.0/NETDIO.csproj.CoreCompileInputs.cache
+/home/chris/Codes/NET_DIO/NETDIO/obj/Debug/net5.0/NETDIO.dll
+/home/chris/Codes/NET_DIO/NETDIO/obj/Debug/net5.0/ref/NETDIO.dll
+/home/chris/Codes/NET_DIO/NETDIO/obj/Debug/net5.0/NETDIO.pdb
+/home/chris/Codes/NET_DIO/NETDIO/obj/Debug/net5.0/NETDIO.genruntimeconfig.cache
